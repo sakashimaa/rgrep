@@ -1,0 +1,6 @@
+Test file for rgrep test    TEST teSt
+
+dkalsdjasldkjadlkajdas
+dasjdklasjdk ladas
+da dlkajd akl;dsa 
+dajdkl a;2026-03-31T18:46:17as dasjkldasdjalskdaslkj test TTEEEst
